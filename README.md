@@ -29,8 +29,8 @@ A machine learning-based stock price predictor that uses technical indicators an
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/stock-predictor.git
-cd stock-predictor
+git clone https://github.com/samarthpaliwal/stock-tracker.git
+cd stock-tracker
 ```
 
 2. Create a virtual environment (recommended):
